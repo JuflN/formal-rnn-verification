@@ -87,11 +87,10 @@ Os experimentos de verificação foram realizados utilizando o **LukaSol**.
 
 A acessibilidade é formulada como um problema de **satisfatibilidade**. Em termos gerais, busca-se determinar se existe uma entrada para a qual a rede atinge determinado valor ou limiar de saída.
 
-Nos experimentos realizados, foram testados diferentes valores de saída:
+Nos experimentos realizados, foram testados diferentes valores de saída, atingindo o limiar:
 
-- $0{,}50$ → `SAT`
-- $0{,}75$ → `SAT`
-- $0{,}78$ → `UNSAT` 
+- $0{,}798$ → `SAT`
+- $0{,}799$ → `UNSAT` 
 
 ### Robustez
 
